@@ -31,7 +31,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. */
 
 package org.firstinspires.ftc.robotcontroller.external.samples;
 
-import android.app.Activity;
+        import android.app.Activity;
 import android.graphics.Color;
 import android.support.annotation.ColorInt;
 import android.view.View;
